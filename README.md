@@ -27,10 +27,10 @@ Works with Claude, ChatGPT and Cursor — [setup](https://effectsize.io/mcp/).
 
 ## Recently added on effectsize
 
+- [Why an Ensemble Needs Negative Weights: From Portfolio Theory to Credit Scoring](https://effectsize.io/cases/why-an-ensemble-needs-negative-weights-from-portfolio-theory/) — Alfa-Bank
+- [HEGM: Predicting the Distribution of Watch Time in Short-Video Recommendations](https://effectsize.io/cases/hegm-predicting-the-distribution-of-watch-time-in-short/) — VK
 - [How Pinterest Improved Analytics Agent Compliance with Loop Engineering](https://effectsize.io/cases/how-pinterest-improved-analytics-agent-compliance-with-loop/) — Pinterest
-- [From Data Silos to Feature Serving: How We Unified Fragmented Data for Training, Inference, and Reuse](https://effectsize.io/cases/from-data-silos-to-feature-serving-how-we-unified-fragmented/) — HubSpot
-- [Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations](https://effectsize.io/cases/your-algorithm-giving-people-more-ways-to-personalize/) — Meta
-- [Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System](https://effectsize.io/cases/fact-checking-at-scale-building-a-more-accurate-and/) — Netflix
-- [Safe and Efficient Multi-Epoch Embedding Training](https://effectsize.io/cases/safe-and-efficient-multi-epoch-embedding-training/) — Pinterest
+- [A dashboard in 8–10 days instead of 20: how Avito's BI team works with agents](https://effectsize.io/cases/a-dashboard-in-8-10-days-instead-of-20-how-avito-s-bi-team/) — Avito
+- [Shopify’s generative discovery model](https://effectsize.io/cases/shopify-s-generative-discovery-model/) — Shopify
 
 [More cases →](https://effectsize.io)
